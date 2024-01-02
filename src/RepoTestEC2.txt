@@ -1,0 +1,1 @@
+This is rest file from EC2
